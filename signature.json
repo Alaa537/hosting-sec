@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "app": "hosting",
+  "package": "com.alaa.hosting",
+  "signatures": {
+    "sha256": "39:CD:B0:32:6E:1B:EE:6F:F9:24:83:4F:81:CE:1B:33:2B:86:64:45:3D:8C:2A:28:3D:1E:06:14:50:39:00:AB",
+    "sha1": "5C:2C:DC:61:44:9A:D8:F1:61:51:95:26:E2:07:6D:9C:81:8C:0B:5E"
+  },
+  "min_version": "1.0.0",
+  "updated_at": "2026-10-15T00:00:00Z"
+}
